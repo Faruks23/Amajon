@@ -1,4 +1,26 @@
 .Shop-container{
   display: grid;
   grid-template-columns: 4fr 1fr;
+  
+  
+}
+.product-container{
+  
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  margin-top: 120px;
+  margin-right: 30px;
+  margin-left: 50px;
+  gap:45px;
+
+}
+.cart-container{
+ 
+  height: 100vh;
+  position:fixed;
+  right: 0;
+  top: 0;
+  z-index: -1;
+
+ 
 }

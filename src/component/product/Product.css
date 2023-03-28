@@ -1,0 +1,17 @@
+.button-chang{
+ background-color: #FFE0B3 !important;
+ color: black !important;
+ border-radius: 0px !important;
+ border-bottom: none !important;;
+ border-top: none;
+ border-bottom-left-radius: 10px !important;
+ border-bottom-right-radius: 10px !important;
+ border-color: green !important;
+}
+.card{
+  height: 500px;
+  width: 300px !important;
+}
+.button-chang:hover{
+  background-color: orange !important;
+}
