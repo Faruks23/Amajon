@@ -1,0 +1,10 @@
+.navbar{
+  background-color: #1C2B35;
+}
+ul li{
+  transition: all 0.5s;
+}
+ul li:hover{
+ border-bottom: 1px solid orange;
+ 
+}
