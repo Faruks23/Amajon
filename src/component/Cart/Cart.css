@@ -2,5 +2,8 @@
  .order-list{
  background-color:#FFE0B3;
   padding-left: 30px;
-  line-height: 34px;
+  padding-right: 30px;
+  line-height: 40px;
+  position: sticky;
+ 
  }
